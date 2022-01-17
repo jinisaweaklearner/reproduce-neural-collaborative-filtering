@@ -1,4 +1,4 @@
-# Neural Collaborative Filtering
+# Reproduce Neural Collaborative Filtering
 
 This is our implementation for the paper:
 
